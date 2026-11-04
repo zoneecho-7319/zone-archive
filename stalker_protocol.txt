@@ -35,4 +35,6 @@ check the transmission again.
 Remember:
 The Zone does not repeat its warnings.
 
+Count every line, including empty lines.
+
 END OF DOCUMENT.
