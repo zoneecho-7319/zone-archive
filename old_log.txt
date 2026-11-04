@@ -33,3 +33,13 @@ The operator left three marks.
 The order was never changed.
 
 Look beyond the recovered fragment.
+
+The operator used an old indexing method.
+
+First, find the line.
+Then, find the word.
+Finally, take what remains of it.
+
+Three marks.
+Three positions.
+One message.
