@@ -7,7 +7,4 @@ Some signals survive deletion.
 
 104.7 MHz
 
-The receiver is waiting:
-https://t.me/echo_zone_1047
-
 END.
