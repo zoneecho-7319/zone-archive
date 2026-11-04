@@ -1,0 +1,10 @@
+FRAGMENT 02
+
+The coordinates were erased.
+The destination was not.
+
+Some signals survive deletion.
+
+104.7 MHz
+
+END.
