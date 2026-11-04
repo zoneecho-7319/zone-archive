@@ -1,0 +1,38 @@
+ZONE FIELD MANUAL
+DOCUMENT 04-B
+CLASSIFICATION: RESTRICTED
+
+Recovered from an abandoned checkpoint.
+
+WARNING:
+Do not trust coordinates found in damaged transmissions.
+
+Old operators used a three-part indexing method.
+
+FIRST NUMBER:
+Select the line.
+
+SECOND NUMBER:
+Select the word on that line.
+
+THIRD NUMBER:
+Select the letter inside that word.
+
+Read the result in the original order.
+
+Example:
+3-2-1
+
+Line 3.
+Word 2.
+Letter 1.
+
+Never rearrange the numbers.
+
+If the message makes no sense,
+check the transmission again.
+
+Remember:
+The Zone does not repeat its warnings.
+
+END OF DOCUMENT.
